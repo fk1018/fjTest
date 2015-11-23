@@ -1,0 +1,20 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Just a Hapi test application",
+  "main": "index.js",
+  "dependencies": {
+    "good": "^6.3.0",
+    "handlebars": "^3.0.3",
+    "good-console": "^5.0.2",
+    "path": "^0.11.14",
+    "hapi": "^8.8.0",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fredrick Khoury <fredk1018@gmail.com>",
+  "license": "ISC"
+}

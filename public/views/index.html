@@ -1,0 +1,31 @@
+<div class="container">
+	<div class="row">
+		<div class="col s2">
+			<ul>
+									<li><a href="#">1</a></li>
+									<li><a href="#">2</a></li>
+									<li><a href="#">3</a></li>
+									<li><a href="#">4</a></li>
+									<li><a href="#">5</a></li>
+									<li><a href="#">6</a></li>
+									<li><a href="#">7</a></li>
+									<li><a href="#">8</a></li>
+									<li><a href="#">9</a></li>
+									<li><a href="#">10</a></li>
+								</ul>					
+		</div>
+		<div class="col s10">	
+			{{#each data}}
+				<div class="col s3 productListItem">
+					<img class="productListItemImg" src="{{this.imageURLs.sm}}"></img>
+					<a href="#" title="View {{this.ProductInfo.Brand}}&nbsp;{{this.ProductInfo.p_product_description}}">
+						<p class="center-align">{{this.ProductInfo.Brand}}&nbsp;{{this.ProductInfo.p_product_description}}</p>
+					</a>
+					</br>
+					<p class="productListItemPrice">${{this.Pricing.lowesPrice}}.00</p>
+					</br>
+				</div>
+			{{/each}}
+		</div>
+	</div>
+</div>

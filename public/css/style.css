@@ -1,0 +1,25 @@
+.productListItem{
+	margin-top:25px;
+	height:320px;
+	position:relative;
+}
+.productListItemImg{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:25px;
+}
+.productListItemPrice{
+	text-align: center;
+    width: 100%;
+	position: absolute;
+	bottom:50px;
+}
+.productListItemBtn{
+	position:absolute;
+	bottom:0;
+}
+.prodcutListTxt{
+
+}
+

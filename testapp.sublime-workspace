@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reply"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"cart",
+				"cartAdjustments"
+			],
+			[
+				"Checkout",
+				"CheckoutData〔variable〕"
+			],
+			[
+				"assign",
+				"assignCurrentStep〔function〕"
+			],
+			[
+				"is",
+				"isTruckDelivery"
+			],
+			[
+				"current",
+				"currentStep"
+			],
+			[
+				"curre",
+				"currentStep"
+			],
+			[
+				"check",
+				"checkout"
+			],
+			[
+				"page",
+				"pageIdentifier〔variable〕"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"WC",
+				"WCToken"
+			],
+			[
+				"user",
+				"userTokenObj〔variable〕"
+			],
+			[
+				"WCT",
+				"WCTrustedToken"
+			],
+			[
+				"W",
+				"WCToken"
+			],
+			[
+				"password",
+				"passwordForm"
+			],
+			[
+				"aja",
+				"ajaxData"
+			],
+			[
+				"ajax",
+				"ajaxData"
+			],
+			[
+				"build",
+				"buildPasswordParams"
+			],
+			[
+				"handle",
+				"handlebars"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"Rugs",
+				"Rugs"
+			],
+			[
+				"pro",
+				"productLeft"
+			],
+			[
+				"customer",
+				"customersAlsoViewedSpot"
+			],
+			[
+				"sess",
+				"sessionRestriction"
+			],
+			[
+				"private",
+				"privateGetData"
+			],
+			[
+				"body",
+				"bodyChunks"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1778,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 226.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov e",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"current",
+				"File: New File Relative to Current View"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fkhoury/Development/node/testApp"
+	],
+	"file_history":
+	[
+		"/Users/fkhoury/.bash_profile",
+		"/Users/fkhoury/.bash-profile",
+		"/Users/fkhoury/Development/mobileweb-fed/html/checkout/payment.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/globalleftnav/specialfinancing_9_2.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/ShoppingArea/W1102.html",
+		"/Users/fkhoury/Development/client_assets/MContent/xml/SiteContent/lccPromotion.xml",
+		"/Users/fkhoury/Desktop/creditlp18.html",
+		"/Users/fkhoury/Desktop/LowesCreditSplash18.html",
+		"/Users/fkhoury/Desktop/ww102test.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/windows_and_doors/cat_flex_revamp.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/doors/25226_tf.html",
+		"/Users/fkhoury/Development/node/myapp/public/stylesheets/style.css",
+		"/Users/fkhoury/Development/node/myapp/views/index.jade",
+		"/Users/fkhoury/Development/node/myapp/package.json",
+		"/Users/fkhoury/Development/node/testApp/index.js",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/fkhoury/Development/node/testApp/public/views/index.html",
+		"/Users/fkhoury/Development/node/testApp/public/views/layout/layout.html",
+		"/Users/fkhoury/Development/node/testApp/package.json",
+		"/Users/fkhoury/Development/client_assets/javascript/product/detail/detail.js",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/Status Bar Weather/StatusBarWeather.sublime-settings",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/User/StatusBarWeather.sublime-settings",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/fkhoury/Desktop/ptest.js",
+		"/Users/fkhoury/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/backtooutdoors.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/readysetguests.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/stormprep.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/fallcleanup.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/pestprevention.html",
+		"/Users/fkhoury/Development/dailies/credit/LowesCreditSplash2.html",
+		"/Users/fkhoury/Development/dailies/credit/creditlp2.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/ShoppingArea/W1101.html",
+		"/Users/fkhoury/Desktop/yest.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/Services/InstallationServices/SpecialOffers.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/Services/Installation/Flooring_Install.html",
+		"/Users/fkhoury/development/client_assets/MContent/Structured/ShoppingArea/W1102.html",
+		"/Users/fkhoury/Development/dailies/credit/creditlp.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/globalleftnav/specialfinancing.html",
+		"/Users/fkhoury/Development/dailies/credit/specialfinancing.html",
+		"/Users/fkhoury/development/client_assets/MContent/lowes/leftnav/DefaultLeftnav_Promotions.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/area_rugs_mats/top_flex.html",
+		"/Users/fkhoury/Development/dailies/teststetst.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/winterize.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/frostalert.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/wakelawnprep.html",
+		"/Users/fkhoury/Development/client_assets/less/cbc/cbc.less",
+		"/Users/fkhoury/Development/dailies/teaast.css",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/Member/cbcselfreg.html",
+		"/Users/fkhoury/Development/dailies/credit/23044_credit_creditCenterMonth.html",
+		"/Users/fkhoury/Development/promos/xml/Promos_Final.xml",
+		"/Users/fkhoury/Development/dailies/2.xml",
+		"/Users/fkhoury/Development/dailies/1.xml",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/warmweekendexterior.html",
+		"/Users/fkhoury/Development/dailies/credit/creditPromobanner.html",
+		"/Users/fkhoury/Development/dailies/credit/23044_creditLandingPage.html",
+		"/Users/fkhoury/Development/dailies/credit/23044_credit_Global_LR.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/departments/bath.html",
+		"/Users/fkhoury/Development/client_assets/javascript/category/category.js",
+		"/Users/fkhoury/Development/client_assets/MContent/breadcrumbs/section2/Outdoors.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/CustomerServiceForms/W900.html",
+		"/Users/fkhoury/Development/PBI/cbctest.css",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/Member/EmailFooter.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/Member/EmailHeader.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/Member/cbcguide11.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/Services/Installation/Carpet_Install.html",
+		"/Users/fkhoury/Development/dailies/campaigns/frostalert.html",
+		"/Users/fkhoury/Development/dailies/campaigns/readysetguests.html",
+		"/Users/fkhoury/Development/dailies/campaigns/stormprep.html",
+		"/Users/fkhoury/Development/dailies/campaigns/winterize.html",
+		"/Users/fkhoury/Development/dailies/campaigns/backtooutdoors.html",
+		"/Users/fkhoury/Development/dailies/campaigns/fallcleanup.html",
+		"/Users/fkhoury/Development/dailies/campaigns/pestprevention.html",
+		"/Users/fkhoury/Development/dailies/campaigns/pestpreventino.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/campaign/loweslive/warmweekendprep.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/Help/RecallsandProductSafetyNews.html",
+		"/Users/fkhoury/Development/python/FEDLogin/test.py",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/garage_storage/top_flexible_area.html",
+		"/Users/fkhoury/Development/PBI/testhall3.css",
+		"/Users/fkhoury/Development/mobileweb-fed/js/checkout/signin/signin.js",
+		"/Users/fkhoury/Development/mobileweb-fed/js/checkout/truck/truck.js",
+		"/Users/fkhoury/Development/mobileweb-fed/js/checkout/review/review.js",
+		"/Users/fkhoury/Development/mobileweb-fed/js/checkout/payment/payment.js",
+		"/Users/fkhoury/Development/mobileweb-fed/js/checkout/parcel/parcel.js",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/masthead_main_min.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/departments/halloween.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/FooterArea/SiteMaintenanceError.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/FooterArea/Error500.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/FooterArea/Error404.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/CustomErrorPages/Error404.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/CustomErrorPages/Error500.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/CustomErrorPages/SiteMaintenanceError.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/masthead_main_min..html",
+		"/Users/fkhoury/Development/PBI/testhall2.css",
+		"/Users/fkhoury/Development/PBI/testhall.css",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/electrical/top_flexible_area.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/trimmers_edgers/19749_tf.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/Services/Installation/Laminate_Flooring_Install.html",
+		"/Users/fkhoury/Development/PBI/halloweentest.css",
+		"/Users/fkhoury/Development/client_assets/less/global/masthead.less",
+		"/Users/fkhoury/Development/mobileweb-fed/js/checkout/checkout.js",
+		"/Users/fkhoury/Development/PBI/acct-min.js",
+		"/Users/fkhoury/Development/client_assets/javascript/cbc/validation/formvalidate.js",
+		"/Users/fkhoury/Development/dailies/lam-floor-install.html",
+		"/Users/fkhoury/Development/PBI/TXT file of things to know",
+		"/Users/fkhoury/Development/client_assets/less/global/build.less",
+		"/Users/fkhoury/Development/client_assets/less/global/navigation.less",
+		"/Users/fkhoury/Development/PBI/halloween-cat.less",
+		"/Users/fkhoury/Development/client_assets/javascript/mylowes/account/register/register.js",
+		"/Users/fkhoury/Development/client_assets/javascript/global/lib/validation_rules.js",
+		"/Users/fkhoury/Development/client_assets/javascript/global/reg_formvalidate.js",
+		"/Users/fkhoury/Development/client_assets/javascript/cbc/cbc.js",
+		"/Users/fkhoury/Development/client_assets/javascript/cbc/validation/formvalidate-workingbak.js",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/CustomErrorPages/404_error_page.html",
+		"/Users/fkhoury/Development/mobileweb-fed/js/cart/cart.js",
+		"/Users/fkhoury/Development/mobileweb-fed/tests/Category/Category.js",
+		"/Users/fkhoury/Development/PBI/mob-cart-12821.js",
+		"/Users/fkhoury/Development/mobileweb-fed/responses/AllDepartments.JSON",
+		"/Users/fkhoury/Development/mobileweb-fed/responses/Category.JSON",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/departments/appliances.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/departments/tnt/i100/expB/appliances.html",
+		"/Users/fkhoury/Development/client_assets/MContent/Structured/MastheadArea/departments/tnt/i100/expC/appliances.html",
+		"/Users/fkhoury/Development/PBI/test.js",
+		"/Users/fkhoury/Development/PBI/checkout.js",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/closet_org/cat_flex_revamp.html",
+		"/Users/fkhoury/.launchpad/MSIWTSCCPRDND02/cache/default/main/lowescomNG/WORKAREA/LowesComNG_Daily/espot/outdoors/topFlex_outdoors_Oct2013.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/fkhoury/Development/mobileweb-fed",
+			"<project>",
+			"/Users/fkhoury/Development/mobileweb-fed",
+			"<project>",
+			"/Users/fkhoury/Development/mobileweb-fed",
+			"/Users/fkhoury/Development/client_assets",
+			"/Users/fkhoury/Development/client_assets/javascript",
+			"/Users/fkhoury/Development/client_assets",
+			"/Users/fkhoury/Downloads/client_assets.git 3",
+			"/Users/fkhoury/Downloads/client_assets.git"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weather",
+			"code",
+			"\"\n",
+			"code",
+			"weather",
+			"innovation",
+			"explore",
+			"mboxDefault",
+			"mbox",
+			"/images/Services/2014_CREDIT_In_Cart_Summary.png",
+			"<!-- 5 Percent Banner -->",
+			"jute",
+			"#cbc-registration h2",
+			"LowesForPros.com",
+			"FREE next-day delivery on in-stock appliances",
+			"link1url",
+			"The new LowesForPros",
+			"422558",
+			"title",
+			"stainmaster",
+			"661097",
+			"25768",
+			"346565",
+			"606686",
+			"stamp",
+			"/images/cbc/cbc_stamp.png\"",
+			"The new LowesForPros.com is",
+			"laminate",
+			"john Deere lawn tractors",
+			"o we will post product recalls from the U.S.",
+			"the security code that appears on the email sent to you by your compa",
+			"christmas",
+			"halloween",
+			".halloween",
+			"_satellite.track('checkoutData');",
+			"setNextStep",
+			"next",
+			".halloween",
+			".no-js .category-name:hover,.categories .active .category-name",
+			".no-js .category-name:hover,.categories .active .category-name {",
+			".category-name {",
+			".no-js .category-name:hover,.categories .active .category-name {",
+			"halloween",
+			"hall",
+			"halloween",
+			"#E0EAF3",
+			".categories li.halloween .category-name{\n    background: #004990;\n    background: -moz-linear-gradient(top,#004990 0,#004990 100%);\n    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#004990),color-stop(100%,#004990));\n    background: -webkit-linear-gradient(top,#004990 0,#004990 100%);\n    background: -o-linear-gradient(top,#004990 0,#004990 100%);\n    background: -ms-linear-gradient(top,#004990 0,#004990 100%);\n    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#005da9',endColorstr='#004287',GradientType=0);\n    background: linear-gradient(top,#004990 0,#004990 100%);\n    color: #be3923;\n    text-shadow: 0 -1px 0 #000;\n}",
+			"halloween",
+			".category-name",
+			"halloween",
+			"halooween",
+			"be3923",
+			"halloween",
+			"How-Tos",
+			"Make over your bath",
+			"popular",
+			"shop laminate",
+			"shop",
+			"shop laminate floor",
+			"shop",
+			"ends",
+			"category-name",
+			";\n",
+			"category-name",
+			"category",
+			"category-name",
+			"appliances",
+			"halloween",
+			"halloween:hover",
+			"MASTHEAD_Depts_Halloween",
+			"password",
+			"invalid",
+			"invalid password",
+			"invalid",
+			"6",
+			"6-12",
+			"passwords must match",
+			"invalid",
+			"Passwords must match; please re-enter.",
+			"invalid",
+			"/(?=^[^\\s]{6,12}$)(?=.*\\d.*)(?=.*[a-zA-Z].*)^(?!.*(.)\\1{3})",
+			"/(?=^[^\\s]{6,12}$)(?=.*\\d.*)(?=.*[a-zA-Z].*)^(?!.*(.)\\1{3})/.",
+			"/(?=^[^\\s]{6,12}$)(?=.*\\d.*)(?=.*[a-zA-Z].*)^(?!.*(.)\\1{3})/.test(value)",
+			"return /(?=^[^\\s]{6,12}$)(?=.*\\d.*)(?=.*[a-zA-Z].*)^(?!.*(.)\\1{3})/.test(value)",
+			"password2_invalid",
+			"Passwords must match",
+			"password must match",
+			"password2",
+			"Keyfob_request_confirm_passwords_error",
+			"password2_invalid",
+			"Passwords must match; please re-enter.",
+			"halloween",
+			"class=\"halloween",
+			"logonPasswordVerify",
+			"password2_invalid",
+			"Passwords must match; please re-enter",
+			"password2",
+			"Passwords must match; please re-enter.",
+			"pass",
+			"validation",
+			"Your password doesn't appear to be valid.",
+			"Passwords must match; please re-enter",
+			"bt_ea_save_password",
+			"Passwords must match; please re-enter",
+			"bt_ea_save_password",
+			"Appliances",
+			"appliance",
+			"Appliances",
+			"undefined",
+			"promoerr",
+			"?",
+			"category_images/Appliancessm.png",
+			".halloween",
+			"Appliances",
+			"Halloween",
+			"Halloween & Harvest ",
+			"halloween",
+			"promoerr",
+			"promo",
+			"promoErrMsg",
+			"postRender",
+			"promoErrMsg",
+			"promoerrmessage",
+			"promoerrmsg",
+			"promoErrMsg",
+			"if (Lowes.User.storageAvailable()) {",
+			"Appliances",
+			"halloween"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"background: #004990;\n    background: -moz-linear-gradient(top,#004990 0,#004990 100%);\n    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#004990),color-stop(100%,#004990));\n    background: -webkit-linear-gradient(top,#004990 0,#004990 100%);\n    background: -o-linear-gradient(top,#004990 0,#004990 100%);\n    background: -ms-linear-gradient(top,#004990 0,#004990 100%);\n    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#005da9',endColorstr='#004287',GradientType=0);\n    background: linear-gradient(top,#004990 0,#004990 100%);\n    color: #be3923;\n    text-shadow: 0 -1px 0 #000;\n}\n",
+			"Lowes.My.Account.AddressValidate.cacheAjaxRespond."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 24.0
+	},
+	"pinned_build_system": "",
+	"project": "testapp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/python/FEDLogin/test.py"
+			],
+			[
+				"light",
+				"MContent/Structured/MastheadArea/departments/lighting_fans.html"
+			],
+			[
+				"lig",
+				"MContent/Structured/MastheadArea/departments/lighting_fans.html"
+			],
+			[
+				"con",
+				"javascript/mylowes/homeprofileAjax/constants.js"
+			],
+			[
+				"constant",
+				"js/constants.js"
+			],
+			[
+				"pay",
+				"checkout/payment/payment.js"
+			],
+			[
+				".ht",
+				".htaccess"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
